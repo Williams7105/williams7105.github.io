@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-### Menú
+## Menú
 
 
 Text can be **Menu**, _italic_, or ~~strikethrough~~.
