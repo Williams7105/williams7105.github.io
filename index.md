@@ -3,6 +3,11 @@ layout: default
 ---
 ## Menú
 
+[Enlace page 1](./another-page.html).
+[Enlace page 2](./another-page.html).
+[Enlace page 3](./another-page.html).
+[Enlace page 4](./another-page.html).
+
 
 Text can be **Menu**, _italic_, or ~~strikethrough~~.
 
