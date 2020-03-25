@@ -1,8 +1,10 @@
 ---
 layout: default
 ---
+### Menú
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+Text can be **Menu**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
